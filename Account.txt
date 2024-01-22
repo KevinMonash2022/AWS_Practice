@@ -1,0 +1,13 @@
+Account ID
+
+058264540528
+
+
+Account Alias
+
+kevin-aws-practice-mel2024
+
+
+Sign-in URL for IAM users in this account
+
+https://kevin-aws-practice-mel2024.signin.aws.amazon.com/console
