@@ -1,0 +1,10 @@
+Console sign-in URL
+https://kevin-aws-practice-mel2024.signin.aws.amazon.com/console
+
+
+User name
+AdminKevin
+
+
+Console password
+^iH+72#%
