@@ -8,3 +8,9 @@ AdminKevin
 
 Console password
 ^iH+72#%
+
+Access key
+AKIAQ3EGWKVYNRHH43XQ
+
+Secret Access key
+VGfeB+zeMiYhBopzaTdhx4S3/d9xQaSBGTXJwRFk
